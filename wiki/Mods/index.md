@@ -36,7 +36,7 @@ There are two different kinds of mods: the normal mods, which can additionally b
 - BunnyHop
 - CaveFinder
 - ChestESP
-- ClickGUI
+- [ClickGUI] (/wiki/ClickGui)
 - CMD-Block
 - CrashChest
 - CrashItem
